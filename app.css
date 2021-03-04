@@ -1,0 +1,17 @@
+#screen{
+    background-color: rgb(210, 212, 91);
+}
+
+.btn{
+    background: rgb(255, 255, 255);
+    width: 150px;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.btn:hover{
+    background:rgb(229, 229, 248) ;
+    transform: translateY(-5px);
+    transition-duration: 10ms;
+}
